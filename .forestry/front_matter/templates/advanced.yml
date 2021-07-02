@@ -45,5 +45,5 @@ fields:
   config:
     required: true
 pages:
-- about.md
-- faq.md
+- content/about.md
+- content/faq.md
